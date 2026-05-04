@@ -1,85 +1,73 @@
 # Dreamweaver-Travel-Website
 
-Multi-page travel website project built with HTML, CSS, image maps, frameset navigation, and Dreamweaver-style page editing.
+Multi-page travel website project built with HTML, image maps, static photo album pages, and Dreamweaver-style web page editing.
 
 ## Highlights
-- Built a **multi-page static website** with linked destination pages
-- Used **image maps** for clickable navigation on a homepage image
-- Created a **frameset layout** with left-side navigation and right-side content display
-- Applied **external CSS stylesheets** for typography and section styling
-- Designed simple **photo album pages** with linked content and image-based buttons
-- Added **external links** and **email links** for interaction
+- Built a **multi-page travel website** with linked homepage and album pages
+- Used an **image map** on the Taiwan homepage for clickable navigation
+- Created an Italy-themed homepage linked to a photo album page
+- Organized a photo album using multiple travel images
+- Added **external website links** and **email links**
+- Practiced **basic web page structure and content layout**
 
 ## Project Overview
-This project was created as a website design and editing exercise using HTML, CSS, and Dreamweaver-style workflow.
+This project was created as a Dreamweaver-style web design exercise using HTML and image-based content.
 
 The website includes:
-- a Taiwan travel homepage with clickable image map regions
-- destination pages for different travel locations
-- a left-side image-button navigation layout
-- a main content frame with a featured image and blog link
-- an Italy-themed travel album page
-- external CSS files for shared styling
+- a **Taiwan travel homepage** with clickable image map regions
+- an **Italy-themed homepage** with a linked album page
+- a **travel album page** displaying multiple photos
+- email and external link integration
+- image-based static page design
 
 This project helped strengthen my understanding of:
-- page structure and navigation flow
-- HTML linking and target frames
-- CSS styling
-- image-based user interface elements
-- basic static website organization
+- HTML page structure
+- image linking
+- image map navigation
+- static website organization
+- simple webpage editing workflow
 
 ## Files
 - `taiwan.html` — Taiwan travel homepage with image map navigation
-- `出走義大利.html` — Italy-themed homepage with linked album page
-- `album.html` — travel album page
-- `leftpage.html` — left-side navigation with image buttons
-- `mainframe.html` — main content display page
-- `secondanswer.html` — frameset page combining navigation and content
-- `east.html` — east Taiwan travel album page
-- `hsinchu.html` — Hsinchu travel album page
-- `word.css` — typography and title styling
-- `A01.css` — table title styling
-- `button01.png` / `button02.png` / `button03.png` / `button04.png` — navigation button images
-- `camera.png` — list-style image
-- `mainframe.jpg` — main display image
+- `出走義大利.html` — Italy-themed homepage
+- `album.html` — Italy travel album page
+- `index_photo.JPG` — homepage image for the Italy page
+- `旅行台灣.jpg` — homepage image for the Taiwan page
+- `mail.png` — email icon
+- `Italy Album/01.JPG` to `Italy Album/08.JPG` — album photos
+- `Italy Album/bg.gif` — album background image
 
 ## Skills Demonstrated
 - **HTML**
-- **CSS**
 - **Dreamweaver-style web page editing**
-- **multi-page website structure**
-- **frameset navigation**
 - **image map creation**
+- **image-based navigation**
+- **multi-page website structure**
 - **external link and email link setup**
-- **basic UI/content layout**
+- **basic static web design**
 
 ## Key Features
 
-### 1. Image Map Navigation
-The Taiwan homepage uses an image map to create clickable regions that link to different tourism websites.
+### 1. Taiwan Homepage
+The Taiwan homepage uses an image map to create clickable areas linked to external travel websites.
 
-### 2. Frameset-Based Layout
-The site includes a frameset design with:
-- a left-side navigation area
-- a right-side content display area
+### 2. Italy Homepage
+The Italy homepage includes a featured image, themed layout, and a link to the travel album page.
 
-### 3. Travel Album Pages
-The project includes destination-based photo album pages with table layouts and styled section headers.
-
-### 4. External CSS Styling
-Shared stylesheets were used to control title appearance, table section styling, and list-style images.
+### 3. Travel Album Page
+The album page displays multiple travel photos in a structured layout.
 
 ## Key Learning Outcomes
-1. **Navigation structure matters**  
-   Organizing pages and links clearly makes a static website easier to use.
+1. **Page structure matters**  
+   Organizing content into separate pages made navigation clearer and easier to manage.
 
-2. **CSS improves consistency**  
-   Using external stylesheets helps maintain a cleaner and more consistent design across pages.
+2. **Image-based navigation can improve interaction**  
+   Using image maps and linked images added interactivity to a static website.
 
-3. **Simple web features can still be valuable**  
-   Image maps, framesets, and structured links helped build understanding of basic web page editing concepts.
+3. **Simple web projects still build useful skills**  
+   This project strengthened my understanding of HTML editing, linking, and static webpage organization.
 
 ## Resume Version
 For resume use, this project can be summarized as:
 
-> Developed a multi-page travel website using HTML, CSS, image maps, frameset navigation, and Dreamweaver-style page editing. Created linked content pages, photo album layouts, external CSS styling, and image-based navigation to strengthen understanding of static website structure and web content organization.
+> Developed a multi-page travel website using HTML, image maps, linked album pages, and Dreamweaver-style web page editing. Created static travel content pages, image-based navigation, and external/email links to strengthen understanding of webpage structure and content organization.
